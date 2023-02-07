@@ -1,13 +1,23 @@
-# CAPella, next generation Cloud AI Platform
-## Highlights
-* Automated resource configuration, fast job completion time
+# Capella, next gen Cloud AI service for everyone
+
+## Vision
+* data scientiests, deep learning algorithm researchers should not care for infrastructure
+* AI service should be simple enough for everyone to use
+* code should auto scale out as more resources are available
+* large model should be tamed by a new platform for large adoption
+
+## Technologies Highlights
+* Automated and dynamic resource configuration, compliment multi-tenant in a optimized way
 * Efficient storage and workflow for function orchestration
 * Minimize data movement, maximize parellelism
 * Simplified elastic AI training, flow and model auto split
 * GPU centric
 
 ## User Interface
-* Browser based work studio
+* Browser based work studio; model service API for integration
 * Large selections of dataset and models
 * Friendly progress tracking and debugging interface
-* Easy to share
+* Sharable, executable functions/workflow
+
+## About us
+* Chief Architects and hard-core Engineers from leading cloud lab.
