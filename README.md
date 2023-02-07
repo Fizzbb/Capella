@@ -1,10 +1,10 @@
 # Capella, next gen Cloud AI service for everyone
 
 ## Vision
-* data scientiests, deep learning algorithm researchers should not care for infrastructure
+* Data scientiests, deep learning algorithm researchers should not care for infrastructure
 * AI service should be simple enough for everyone to use
-* code should auto scale out as more resources are available
-* large model should be tamed by a new platform for large adoption
+* Code should auto scale out as more resources are available
+* Large model should be tamed by a new platform for wide adoption
 
 ## Technologies Highlights
 * Automated and dynamic resource configuration, compliment multi-tenant in a optimized way
