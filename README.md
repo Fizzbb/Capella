@@ -5,6 +5,7 @@
 * AI service should be simple enough for everyone to use
 * Code should auto scale out as more resources are available
 * Large model should be tamed by a new platform for wide adoption
+* Cloud computing shifts to sky computing and severless computing
 
 ## Technologies Highlights
 * Automated and dynamic resource configuration, compliment multi-tenant in a optimized way
