@@ -10,9 +10,9 @@
 ## Technologies Highlights
 * Automated and dynamic resource configuration, compliment multi-tenant in a optimized way
 * Efficient storage and workflow for function orchestration
-* Minimize data movement, maximize parellelism
+* Minimize data movement, maximize parellelism, data locality
 * Simplified elastic AI training, flow and model auto split
-* GPU centric
+* GPU centric, Heterogeneous resource management
 
 ## User Interface
 * Browser based work studio; model service API for integration
