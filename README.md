@@ -13,7 +13,7 @@
 * Minimize data movement, maximize parellelism, data locality
 * Simplified elastic AI training, flow and model auto split
 * GPU centric, Heterogeneous resource management
-* Apache arrow data format for in-memory data processing and data transfer (same foramt on the wire, no need SerDes)
+* Apache arrow data format for in-memory data processing and data transfer (same format on the wire, no need SerDes)
 
 ## User Interface
 * Browser based work studio; model service API for integration
