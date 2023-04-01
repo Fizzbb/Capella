@@ -11,6 +11,7 @@ RUN apt-get install -y python3-pip python3-dev \
   && pip3 --no-cache-dir install --upgrade pip \
   && rm -rf /var/lib/apt/lists/*
 
+# fine tune llama with chatGPT prompt/response using deepSpeed framework, train on 1 server with 8 cards.
 RUN git clone --recurse-submodules https://github.com/nomic-ai/gpt4all.git
 WORKDIR "/gpt4all"
 #RUN git submodule configure &&  git submodule update
